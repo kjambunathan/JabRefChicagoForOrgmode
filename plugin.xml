@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<!DOCTYPE plugin PUBLIC "-//JPF//Java Plug-in Manifest 1.0" "http://jpf.sourceforge.net/plugin_1_0.dtd">
+<plugin id="net.sf.jabref.export.chicago.ODF" version="1.2">
+	
+<requires>
+	<import plugin-id="net.sf.jabref.core"/>
+</requires>
+<runtime>
+	<library type="code" path="classes/" id="code"/>
+</runtime>
+<extension id="Chicago.ODF abstract" plugin-id="net.sf.jabref.core" 
+  point-id="ExportFormatTemplate">
+	<parameter id="displayName" value="Chicago.ODF abstract" />
+	<parameter id="consoleName" value="chicago.ODF.abstract" />
+	<parameter id="layoutFilename" value="Chicago.ODF.abstract" />
+	<parameter id="dir" value="." />
+	<parameter id="extension" value=".xml" />
+</extension>
+<extension id="Chicago.ODF biblio" plugin-id="net.sf.jabref.core" 
+  point-id="ExportFormatTemplate">
+	<parameter id="displayName" value="Chicago.ODF biblio" />
+	<parameter id="consoleName" value="chicago.ODF.biblio" />
+	<parameter id="layoutFilename" value="Chicago.ODF.biblio" />
+	<parameter id="dir" value="." />
+	<parameter id="extension" value=".xml" />
+</extension>
+<extension id="Chicago.ODF footend" plugin-id="net.sf.jabref.core" 
+  point-id="ExportFormatTemplate">
+	<parameter id="displayName" value="Chicago.ODF footend" />
+	<parameter id="consoleName" value="chicago.ODF.footend" />
+	<parameter id="layoutFilename" value="Chicago.ODF.footend" />
+	<parameter id="dir" value="." />
+	<parameter id="extension" value=".xml" />
+</extension>
+<extension id="Chicago.ODF note" plugin-id="net.sf.jabref.core" 
+  point-id="ExportFormatTemplate">
+	<parameter id="displayName" value="Chicago.ODF note" />
+	<parameter id="consoleName" value="chicago.ODF.note" />
+	<parameter id="layoutFilename" value="Chicago.ODF.note" />
+	<parameter id="dir" value="." />
+	<parameter id="extension" value=".xml" />
+</extension>
+<extension id="Chicago.ODF reference" plugin-id="net.sf.jabref.core" 
+  point-id="ExportFormatTemplate">
+	<parameter id="displayName" value="Chicago.ODF reference" />
+	<parameter id="consoleName" value="chicago.ODF.reference" />
+	<parameter id="layoutFilename" value="Chicago.ODF.reference" />
+	<parameter id="dir" value="." />
+	<parameter id="extension" value=".xml" />
+</extension>
+<extension id="Chicago.ODF text" plugin-id="net.sf.jabref.core" 
+  point-id="ExportFormatTemplate">
+	<parameter id="displayName" value="Chicago.ODF text" />
+	<parameter id="consoleName" value="chicago.ODF.text" />
+	<parameter id="layoutFilename" value="Chicago.ODF.text" />
+	<parameter id="dir" value="." />
+	<parameter id="extension" value=".xml" />
+</extension>
+<extension id="Chicago.ODF footend short" plugin-id="net.sf.jabref.core" 
+  point-id="ExportFormatTemplate">
+	<parameter id="displayName" value="Chicago.ODF footend short" />
+	<parameter id="consoleName" value="chicago.ODF.footend.short" />
+	<parameter id="layoutFilename" value="Chicago.ODF.footend.short"  />
+	<parameter id="dir" value="." />
+	<parameter id="extension" value=".xml" />
+</extension>
+
+</plugin>
