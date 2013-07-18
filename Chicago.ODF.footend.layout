@@ -2,7 +2,7 @@
 
 
 \begin{journal}
-}{\\i \format[RTFChars]{\journal}} {\\b \volume}{
+}{\\i \format[RTFChars]{\journal}} <text:span text:style-name="Bold">\volume</text:span>{
 \end{journal}
 
 
