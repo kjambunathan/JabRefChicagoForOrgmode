@@ -1,5 +1,5 @@
 \begin{author}
-\format[RTFChars,AuthorLastFirstCommas]{\author}. \end{author}"\format[RTFChars]{\title}." {\\i \format[RTFChars]{\journal}}
+\format[RTFChars,AuthorLastFirstCommas]{\author}. \end{author}"\format[RTFChars]{\title}." <text:span text:style-name="Emphasis">\format[RTFChars]{\journal}</text:span>
 \begin{volume} \volume\end{volume}
 \begin{number}, no. \number\end{number} 
 (

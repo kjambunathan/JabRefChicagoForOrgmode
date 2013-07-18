@@ -1,6 +1,6 @@
 \begin{author}
 \format[RTFChars,AuthorLastFirstCommas]{\author}. \end{author}
-{\\i \format[RTFChars]{\title}}{.
+<text:span text:style-name="Emphasis">\format[RTFChars]{\title}</text:span>{.
 \begin{edition} \format[RTFChars]{\edition}\end{edition}
 \begin{editor} Edited by \format[RTFChars,AuthorFirstFirstCommas]{\editor}.\end{editor}}
 \begin{volume} Vol. \format[RTFChars]{\volume}.\end{volume}

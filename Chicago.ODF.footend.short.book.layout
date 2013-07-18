@@ -1,4 +1,4 @@
 \begin{author}
 \format[RTFChars,AuthorNatBib]{\author}, \end{author}
-{\\i \format[RTFChars]{\title}}
+<text:span text:style-name="Emphasis">\format[RTFChars]{\title}</text:span>
 \begin{volume}, \volume: \end{volume}. 
