@@ -2,7 +2,7 @@
 
 
 \begin{journal}
-}{\\i \format[RTFChars]{\journal}}{ }{\\b \volume}{
+}{\\i \format[RTFChars]{\journal}} {\\b \volume}{
 \end{journal}
 
 
