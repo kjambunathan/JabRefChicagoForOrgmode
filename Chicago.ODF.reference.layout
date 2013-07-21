@@ -1,3 +1,7 @@
+<text:p text:style-name="Bibliography">
+<text:bookmark text:name="\bibtexkey"/>
+<text:bookmark-start text:name="cite-\bibtexkey"/>
+
 \format[RTFChars,AuthorLastFirstCommas]{\author} \format[RTFChars]{\title}.
 
 \begin{journal}
@@ -46,6 +50,7 @@
 \end{pages}
 
 .
-\\par
-\\par
 
+
+<text:bookmark-end text:name="cite-\bibtexkey"/>
+</text:p>

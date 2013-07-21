@@ -1,4 +1,11 @@
+<text:p text:style-name="Bibliography">
+<text:bookmark text:name="\bibtexkey"/>
+<text:bookmark-start text:name="cite-\bibtexkey"/>
+
 \begin{author}
 \format[RTFChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{year}\format[RTFChars]{\year}. \end{year}
-\begin{title}\format[RTFChars]{\title}. \end{title}Masters thesis, \format[RTFChars]{\school}. \\par\\par
+\begin{title}\format[RTFChars]{\title}. \end{title}Masters thesis, \format[RTFChars]{\school}. 
+
+<text:bookmark-end text:name="cite-\bibtexkey"/>
+</text:p>

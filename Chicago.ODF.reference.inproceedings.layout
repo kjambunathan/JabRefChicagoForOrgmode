@@ -1,3 +1,7 @@
+<text:p text:style-name="Bibliography">
+<text:bookmark text:name="\bibtexkey"/>
+<text:bookmark-start text:name="cite-\bibtexkey"/>
+
 \begin{author}
 \format[RTFChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{year}\format[RTFChars]{\year}. \end{year}
@@ -8,4 +12,7 @@
 \begin{volume} Vol. \format[RTFChars]{\volume}.\end{volume}
 \begin{number}, bk. \format[RTFChars]{\number}.\end{number} 
 \begin{address}\format[RTFChars]{\address}\end{address}{:
-\begin{publisher} \format[RTFChars]{\publisher}\end{publisher}. \\par\\par
+\begin{publisher} \format[RTFChars]{\publisher}\end{publisher}. 
+
+<text:bookmark-end text:name="cite-\bibtexkey"/>
+</text:p>
