@@ -1,4 +1,4 @@
 \begin{author}
-\format[RTFChars,AuthorNatBib]{\author}, \end{author}
-\begin{title}"\format[RTFChars]{\title}," \end{title}
+\format[XMLChars,AuthorNatBib]{\author}, \end{author}
+\begin{title}"\format[XMLChars]{\title}," \end{title}
 \begin{volume} \volume: \end{volume}. 

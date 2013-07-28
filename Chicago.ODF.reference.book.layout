@@ -3,15 +3,15 @@
 <text:bookmark-start text:name="cite-\bibtexkey"/>
 
 \begin{author}
-\format[RTFChars,AuthorLastFirstCommas]{\author}. \end{author}
-\begin{year}\format[RTFChars]{\year}. \end{year}
-<text:span text:style-name="Emphasis">\format[RTFChars]{\title}</text:span>{.
-\begin{edition} \format[RTFChars]{\edition}\end{edition}
-\begin{editor} Edited by \format[RTFChars,AuthorFirstFirstCommas]{\editor}.\end{editor}}
-\begin{volume} Vol. \format[RTFChars]{\volume}.\end{volume}
-\begin{number}, bk. \format[RTFChars]{\number}.\end{number}
-\begin{address} \format[RTFChars]{\address}\end{address}:
-\begin{publisher} \format[RTFChars]{\publisher}\end{publisher}. 
+\format[XMLChars,AuthorLastFirstCommas]{\author}. \end{author}
+\begin{year}\format[XMLChars]{\year}. \end{year}
+<text:span text:style-name="Emphasis">\format[XMLChars]{\title}</text:span>{.
+\begin{edition} \format[XMLChars]{\edition}\end{edition}
+\begin{editor} Edited by \format[XMLChars,AuthorFirstFirstCommas]{\editor}.\end{editor}}
+\begin{volume} Vol. \format[XMLChars]{\volume}.\end{volume}
+\begin{number}, bk. \format[XMLChars]{\number}.\end{number}
+\begin{address} \format[XMLChars]{\address}\end{address}:
+\begin{publisher} \format[XMLChars]{\publisher}\end{publisher}. 
 
 <text:bookmark-end text:name="cite-\bibtexkey"/>
 </text:p>

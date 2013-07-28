@@ -3,9 +3,9 @@
 <text:bookmark-start text:name="cite-\bibtexkey"/>
 
 \begin{author}
-\format[RTFChars,AuthorLastFirstCommas]{\author}. \end{author}
-\begin{year}\format[RTFChars]{\year}. \end{year}
-\begin{title}\format[RTFChars]{\title}. \end{title}Masters thesis, \format[RTFChars]{\school}. 
+\format[XMLChars,AuthorLastFirstCommas]{\author}. \end{author}
+\begin{year}\format[XMLChars]{\year}. \end{year}
+\begin{title}\format[XMLChars]{\title}. \end{title}Masters thesis, \format[XMLChars]{\school}. 
 
 <text:bookmark-end text:name="cite-\bibtexkey"/>
 </text:p>

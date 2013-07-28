@@ -1,9 +1,9 @@
 <text:a xlink:type="simple" xlink:href="#\bibtexkey">
 
-\format[RTFChars,AuthorLastFirstCommas]{\author} \format[RTFChars]{\title}.
+\format[XMLChars,AuthorLastFirstCommas]{\author} \format[XMLChars]{\title}.
 
 \begin{journal}
-}<text:span text:style-name="Emphasis">\format[RTFChars]{\journal}</text:span> <text:span text:style-name="Bold">\volume</text:span>{
+}<text:span text:style-name="Emphasis">\format[XMLChars]{\journal}</text:span> <text:span text:style-name="Bold">\volume</text:span>{
 \end{journal}
 
 \begin{number}
@@ -11,11 +11,11 @@
 \end{number}
 
 \begin{editor}
- \format[RTFChars,AuthorLastFirstCommas]{\editor}, eds.
+ \format[XMLChars,AuthorLastFirstCommas]{\editor}, eds.
 \end{editor}
 
 \begin{booktitle}
-}<text:span text:style-name="Emphasis">\format[RTFChars]{\booktitle}</text:span>{
+}<text:span text:style-name="Emphasis">\format[XMLChars]{\booktitle}</text:span>{
 \end{booktitle}
 
 \begin{organization}
@@ -27,7 +27,7 @@
 \end{institution}
 
 \begin{publisher}
-, \format[RTFChars]{\publisher}
+, \format[XMLChars]{\publisher}
 \end{publisher}
 
 \begin{howpublished}
@@ -35,7 +35,7 @@
 \end{howpublished}
 
 \begin{address}
-, \format[RTFChars]{\address}
+, \format[XMLChars]{\address}
 \end{address}
 
 (\year).

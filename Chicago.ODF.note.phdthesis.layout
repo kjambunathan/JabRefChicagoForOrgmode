@@ -1,5 +1,5 @@
 \begin{author}
-\format[RTFChars,AuthorLastFirstCommas]{\author}. \end{author}\begin{title}"\format[RTFChars]{\title}." \end{title}PhD diss., \format[RTFChars]{\school}, 
-\begin{year}\format[RTFChars]{\year}. \end{year}
+\format[XMLChars,AuthorLastFirstCommas]{\author}. \end{author}\begin{title}"\format[XMLChars]{\title}." \end{title}PhD diss., \format[XMLChars]{\school}, 
+\begin{year}\format[XMLChars]{\year}. \end{year}
 \begin{note}\\par
-\format[RTFChars]{\note} \end{note}  \\par\\par
+\format[XMLChars]{\note} \end{note}  \\par\\par
