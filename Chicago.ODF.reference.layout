@@ -2,10 +2,10 @@
 <text:bookmark text:name="\bibtexkey"/>
 <text:bookmark-start text:name="cite-\bibtexkey"/>
 
-\format[XMLChars,AuthorLastFirstCommas]{\author} \format[XMLChars]{\title}.
+\format[FormatChars,AuthorLastFirstCommas]{\author} \format[FormatChars]{\title}.
 
 \begin{journal}
-}<text:span text:style-name="Emphasis">\format[XMLChars]{\journal}</text:span> <text:span text:style-name="Bold">\volume</text:span>{
+}<text:span text:style-name="Emphasis">\format[FormatChars]{\journal}</text:span> <text:span text:style-name="Bold">\volume</text:span>{
 \end{journal}
 
 \begin{number}
@@ -13,11 +13,11 @@
 \end{number}
 
 \begin{editor}
- \format[XMLChars,AuthorLastFirstCommas]{\editor}, eds.
+ \format[FormatChars,AuthorLastFirstCommas]{\editor}, eds.
 \end{editor}
 
 \begin{booktitle}
-}<text:span text:style-name="Emphasis">\format[XMLChars]{\booktitle}</text:span>{
+}<text:span text:style-name="Emphasis">\format[FormatChars]{\booktitle}</text:span>{
 \end{booktitle}
 
 \begin{organization}
@@ -29,7 +29,7 @@
 \end{institution}
 
 \begin{publisher}
-, \format[XMLChars]{\publisher}
+, \format[FormatChars]{\publisher}
 \end{publisher}
 
 \begin{howpublished}
@@ -37,7 +37,7 @@
 \end{howpublished}
 
 \begin{address}
-, \format[XMLChars]{\address}
+, \format[FormatChars]{\address}
 \end{address}
 
 (\year).

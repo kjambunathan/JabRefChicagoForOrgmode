@@ -1,4 +1,4 @@
 \begin{author}
-\format[XMLChars,AuthorLastFirstCommas]{\author}. \end{author}
-\begin{title}"\format[XMLChars]{\title}." \end{title}Masters thesis, \format[XMLChars]{\school}, 
-\begin{year}\format[XMLChars]{\year}. \end{year}\\par\\par
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
+\begin{title}"\format[FormatChars]{\title}." \end{title}Masters thesis, \format[FormatChars]{\school}, 
+\begin{year}\format[FormatChars]{\year}. \end{year}\\par\\par

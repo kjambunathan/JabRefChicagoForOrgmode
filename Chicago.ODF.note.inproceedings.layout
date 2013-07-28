@@ -1,13 +1,13 @@
 \begin{author}
-\format[XMLChars,AuthorLastFirstCommas]{\author}. \end{author}
-\begin{title}"\format[XMLChars]{\title}." \end{title}{En \\i \format[XMLChars]{\booktitle}}
-\begin{editor}, editado por \format[XMLChars,AuthorFirstFirstCommas]{\editor}\end{editor}}
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
+\begin{title}"\format[FormatChars]{\title}." \end{title}{En \\i \format[FormatChars]{\booktitle}}
+\begin{editor}, editado por \format[FormatChars,AuthorFirstFirstCommas]{\editor}\end{editor}}
 \begin{pages}, \pages\end{pages}.
-\begin{edition}\format[XMLChars]{\edition}\end{edition}
-\begin{volume} Vol. \format[XMLChars]{\volume}.\end{volume}
-\begin{number}, bk. \format[XMLChars]{\number}.\end{number} 
-\begin{address}\format[XMLChars]{\address}\end{address}{:
-\begin{publisher} \format[XMLChars]{\publisher}\end{publisher}, 
-\begin{year}\format[XMLChars]{\year}. \end{year}
+\begin{edition}\format[FormatChars]{\edition}\end{edition}
+\begin{volume} Vol. \format[FormatChars]{\volume}.\end{volume}
+\begin{number}, bk. \format[FormatChars]{\number}.\end{number} 
+\begin{address}\format[FormatChars]{\address}\end{address}{:
+\begin{publisher} \format[FormatChars]{\publisher}\end{publisher}, 
+\begin{year}\format[FormatChars]{\year}. \end{year}
 \begin{note}\\par
-\format[XMLChars]{\note} \end{note}  \\par\\par
+\format[FormatChars]{\note} \end{note}  \\par\\par

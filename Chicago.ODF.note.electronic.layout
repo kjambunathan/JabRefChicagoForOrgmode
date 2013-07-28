@@ -1,8 +1,8 @@
 \begin{author}
-\format[XMLChars,AuthorLastFirstCommas]{\author}. \end{author}\begin{title}"\format[XMLChars]{\title}." \end{title}
-\begin{organization}\format[XMLChars]{\organization}. \end{organization}
-\begin{month}\format[XMLChars]{\month}, \end{month}
-\begin{year}\format[XMLChars]{\year}. \end{year}
-\begin{url}\format[XMLChars]{\url}. \end{url}
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}\begin{title}"\format[FormatChars]{\title}." \end{title}
+\begin{organization}\format[FormatChars]{\organization}. \end{organization}
+\begin{month}\format[FormatChars]{\month}, \end{month}
+\begin{year}\format[FormatChars]{\year}. \end{year}
+\begin{url}\format[FormatChars]{\url}. \end{url}
 \begin{note}\\par
-\format[XMLChars]{\note} \end{note}  \\par\\par
+\format[FormatChars]{\note} \end{note}  \\par\\par

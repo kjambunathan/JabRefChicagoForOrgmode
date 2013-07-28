@@ -3,16 +3,16 @@
 <text:bookmark-start text:name="cite-\bibtexkey"/>
 
 \begin{author}
-\format[XMLChars,AuthorLastFirstCommas]{\author}. \end{author}
-\begin{year}\format[XMLChars]{\year}. \end{year}
-\begin{title}\format[XMLChars]{\title}. \end{title}{In \\i \format[XMLChars]{\booktitle}}
-\begin{editor}, ed. \format[XMLChars,AuthorFirstAbbrLastCommas]{\editor}\end{editor}}
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
+\begin{year}\format[FormatChars]{\year}. \end{year}
+\begin{title}\format[FormatChars]{\title}. \end{title}{In \\i \format[FormatChars]{\booktitle}}
+\begin{editor}, ed. \format[FormatChars,AuthorFirstAbbrLastCommas]{\editor}\end{editor}}
 \begin{pages}, \pages\end{pages}.
-\begin{edition}\format[XMLChars]{\edition}\end{edition}
-\begin{volume} Vol. \format[XMLChars]{\volume}.\end{volume}
-\begin{number}, bk. \format[XMLChars]{\number}.\end{number} 
-\begin{address}\format[XMLChars]{\address}\end{address}{:
-\begin{publisher} \format[XMLChars]{\publisher}\end{publisher}. 
+\begin{edition}\format[FormatChars]{\edition}\end{edition}
+\begin{volume} Vol. \format[FormatChars]{\volume}.\end{volume}
+\begin{number}, bk. \format[FormatChars]{\number}.\end{number} 
+\begin{address}\format[FormatChars]{\address}\end{address}{:
+\begin{publisher} \format[FormatChars]{\publisher}\end{publisher}. 
 
 <text:bookmark-end text:name="cite-\bibtexkey"/>
 </text:p>

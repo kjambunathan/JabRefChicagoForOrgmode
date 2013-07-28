@@ -3,11 +3,11 @@
 <text:bookmark-start text:name="cite-\bibtexkey"/>
 
 \begin{author}
-\format[XMLChars,AuthorLastFirstCommas]{\author}. \end{author}
-\begin{year}\format[XMLChars]{\year}. \end{year}
-\begin{title}\format[XMLChars]{\title}. \end{title}
-\begin{month}\format[XMLChars]{\month}. \end{month}
-\begin{url}\format[XMLChars]{\url}. \end{url}
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
+\begin{year}\format[FormatChars]{\year}. \end{year}
+\begin{title}\format[FormatChars]{\title}. \end{title}
+\begin{month}\format[FormatChars]{\month}. \end{month}
+\begin{url}\format[FormatChars]{\url}. \end{url}
 
 <text:bookmark-end text:name="cite-\bibtexkey"/>
 </text:p>

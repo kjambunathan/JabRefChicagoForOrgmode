@@ -1,11 +1,11 @@
 \begin{author}
-\format[XMLChars,AuthorFirstFirstCommas]{\author}, \end{author}
-\begin{title}"\format[XMLChars]{\title}," \end{title}{en \\i \format[XMLChars]{\booktitle}}
-\begin{edition}, \format[XMLChars,ToLowerCase]{\edition}\end{edition}
-\begin{editor}, editado por \format[XMLChars,AuthorFirstFirstCommas]{\editor}\end{editor}}
-\begin{volume}, vol. \format[XMLChars]{\volume}\end{volume}
-\begin{number}, bk. \format[XMLChars]{\number}\end{number}
-\begin{address} (\format[XMLChars]{\address}\end{address}{:
-\begin{publisher} \format[XMLChars]{\publisher}\end{publisher}, 
-\begin{year}\format[XMLChars]{\year})\end{year}
+\format[FormatChars,AuthorFirstFirstCommas]{\author}, \end{author}
+\begin{title}"\format[FormatChars]{\title}," \end{title}{en \\i \format[FormatChars]{\booktitle}}
+\begin{edition}, \format[FormatChars,ToLowerCase]{\edition}\end{edition}
+\begin{editor}, editado por \format[FormatChars,AuthorFirstFirstCommas]{\editor}\end{editor}}
+\begin{volume}, vol. \format[FormatChars]{\volume}\end{volume}
+\begin{number}, bk. \format[FormatChars]{\number}\end{number}
+\begin{address} (\format[FormatChars]{\address}\end{address}{:
+\begin{publisher} \format[FormatChars]{\publisher}\end{publisher}, 
+\begin{year}\format[FormatChars]{\year})\end{year}
 \begin{pages}, \pages\end{pages}. 

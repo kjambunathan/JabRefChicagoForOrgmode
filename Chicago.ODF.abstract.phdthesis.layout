@@ -1,5 +1,5 @@
 \begin{author}
-\format[XMLChars,AuthorLastFirstCommas]{\author}. \end{author}
-\begin{title}"\format[XMLChars]{\title}." \end{title}PhD diss., \format[XMLChars]{\school}, 
-\begin{year}\format[XMLChars]{\year}. \end{year}\\par\\par
-\begin{abstract}\format[XMLChars]{\abstract}\\par\\par\end{abstract}
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
+\begin{title}"\format[FormatChars]{\title}." \end{title}PhD diss., \format[FormatChars]{\school}, 
+\begin{year}\format[FormatChars]{\year}. \end{year}\\par\\par
+\begin{abstract}\format[FormatChars]{\abstract}\\par\\par\end{abstract}

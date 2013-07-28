@@ -1,10 +1,10 @@
 \begin{author}
-\format[XMLChars,AuthorLastFirstCommas]{\author}. \end{author}"
-\format[XMLChars]{\title}." <text:span text:style-name="Emphasis">\format[XMLChars]{\journal}</text:span>
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}"
+\format[FormatChars]{\title}." <text:span text:style-name="Emphasis">\format[FormatChars]{\journal}</text:span>
 \begin{volume} \volume\end{volume}
 \begin{number}, no. \number\end{number} 
 (
-\begin{month}\format[XMLChars]{\month}, \end{month}
-\begin{year}\format[XMLChars]{\year})\end{year}
+\begin{month}\format[FormatChars]{\month}, \end{month}
+\begin{year}\format[FormatChars]{\year})\end{year}
 \begin{pages}: \pages\end{pages}. \\par\\par
-\begin{abstract}\format[XMLChars]{\abstract}\\par\\par\end{abstract}
+\begin{abstract}\format[FormatChars]{\abstract}\\par\\par\end{abstract}

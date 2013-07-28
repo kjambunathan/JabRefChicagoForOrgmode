@@ -1,6 +1,6 @@
 \begin{author}
-\format[XMLChars,AuthorFirstFirstCommas]{\author}, \end{author}
-\begin{title}"\format[XMLChars]{\title}" \end{title}(Paper presented at the meeting of the \format[XMLChars]{\booktitle}, 
-\begin{address}\format[XMLChars]{\address},\end{address} 
-\begin{month}\format[XMLChars]{\month}, \end{month}
-\begin{year}\format[XMLChars]{\year})\end{year}. 
+\format[FormatChars,AuthorFirstFirstCommas]{\author}, \end{author}
+\begin{title}"\format[FormatChars]{\title}" \end{title}(Paper presented at the meeting of the \format[FormatChars]{\booktitle}, 
+\begin{address}\format[FormatChars]{\address},\end{address} 
+\begin{month}\format[FormatChars]{\month}, \end{month}
+\begin{year}\format[FormatChars]{\year})\end{year}. 
