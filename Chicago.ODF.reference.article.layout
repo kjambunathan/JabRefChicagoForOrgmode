@@ -1,3 +1,4 @@
+<!-- BEGIN: \bibtexkey -->
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{year}\format[FormatChars]{\year}. \end{year}
@@ -6,3 +7,4 @@
 \begin{number} (\number)\end{number}
 \begin{month}, \format[FormatChars]{\month}, \end{month}
 \begin{pages}: \pages\end{pages}.
+<!-- END: \bibtexkey -->

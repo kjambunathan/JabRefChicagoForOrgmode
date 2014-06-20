@@ -1,3 +1,4 @@
+<!-- BEGIN: \bibtexkey -->
 \format[FormatChars,AuthorLastFirstCommas]{\author} \format[FormatChars]{\title}.
 
 \begin{journal}
@@ -46,3 +47,4 @@
 \end{pages}
 
 .
+<!-- END: \bibtexkey -->

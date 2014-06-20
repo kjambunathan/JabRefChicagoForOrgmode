@@ -1,3 +1,4 @@
+<!-- BEGIN: \bibtexkey -->
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{title}"\format[FormatChars]{\title}." \end{title}{En \\i \format[FormatChars]{\booktitle}}
@@ -9,3 +10,4 @@
 \begin{address}\format[FormatChars]{\address}\end{address}{:
 \begin{publisher} \format[FormatChars]{\publisher}\end{publisher},
 \begin{year}\format[FormatChars]{\year}. \end{year}\\par\\par
+<!-- END: \bibtexkey -->

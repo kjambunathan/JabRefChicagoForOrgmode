@@ -1,3 +1,4 @@
+<!-- BEGIN: \bibtexkey -->
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}"\format[FormatChars]{\title}." <text:span text:style-name="Emphasis">\format[FormatChars]{\journal}</text:span>
 \begin{volume} \volume\end{volume}
@@ -8,3 +9,4 @@
 \begin{pages}: \pages\end{pages}.
 \begin{note}\\par
 \format[FormatChars]{\note} \end{note}  \\par\\par
+<!-- END: \bibtexkey -->

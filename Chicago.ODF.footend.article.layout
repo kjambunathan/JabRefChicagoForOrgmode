@@ -1,3 +1,4 @@
+<!-- BEGIN: \bibtexkey -->
 \begin{author}
 \format[FormatChars,AuthorFirstFirstCommas]{\author}, \end{author}"\format[FormatChars]{\title}," <text:span text:style-name="Emphasis">\format[FormatChars]{\journal}</text:span>
 \begin{volume} \volume\end{volume}
@@ -6,3 +7,4 @@
 \begin{month}\format[FormatChars]{\month} \end{month}
 \begin{year}\format[FormatChars]{\year})\end{year}
 \begin{pages}: \pages\end{pages}.
+<!-- END: \bibtexkey -->

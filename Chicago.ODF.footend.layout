@@ -1,3 +1,4 @@
+<!-- BEGIN: \bibtexkey -->
 \format[FormatChars,AuthorFirstFirstCommas]{\author} \format[FormatChars]{\title}.
 
 
@@ -57,3 +58,4 @@
 .
 \\par
 \\par
+<!-- END: \bibtexkey -->

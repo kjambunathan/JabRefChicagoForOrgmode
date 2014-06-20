@@ -1,3 +1,4 @@
+<!-- BEGIN: \bibtexkey -->
 \begin{author}
 \format[FormatChars,AuthorFirstFirstCommas]{\author}, \end{author}
 <text:span text:style-name="Emphasis">\format[FormatChars]{\title}</text:span>{
@@ -8,3 +9,4 @@
 \begin{address} (\format[FormatChars]{\address}\end{address}:
 \begin{publisher} \format[FormatChars]{\publisher}\end{publisher},
 \begin{year}\format[FormatChars]{\year})\end{year}.
+<!-- END: \bibtexkey -->

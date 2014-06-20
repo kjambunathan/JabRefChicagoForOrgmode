@@ -1,3 +1,5 @@
+<!-- BEGIN: \bibtexkey -->
 (\begin{author}
 \format[FormatChars,AuthorNatBib]{\author} \end{author}
 \begin{year}\format[FormatChars]{\year}, \end{year})
+<!-- END: \bibtexkey -->

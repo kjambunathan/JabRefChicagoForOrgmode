@@ -1,3 +1,4 @@
+<!-- BEGIN: \bibtexkey -->
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{title}"\format[FormatChars]{\title}." \end{title}
@@ -6,3 +7,4 @@
 \begin{url}\format[FormatChars]{\url}. \end{url}
 \begin{note}\\par
 \format[FormatChars]{\note} \end{note}  \\par\\par
+<!-- END: \bibtexkey -->

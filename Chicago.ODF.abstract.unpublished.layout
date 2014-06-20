@@ -1,3 +1,4 @@
+<!-- BEGIN: \bibtexkey -->
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{title}"\format[FormatChars]{\title}." \end{title}
@@ -5,3 +6,4 @@
 \begin{year}\format[FormatChars]{\year}. \end{year}
 \begin{url}\format[FormatChars]{\url}. \end{url}\\par\\par
 \begin{abstract}\format[FormatChars]{\abstract}\\par\\par\end{abstract}
+<!-- END: \bibtexkey -->
