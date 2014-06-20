@@ -47,10 +47,7 @@
 \end{pages}
 
 .
-\\par
-\\par
-\begin{abstract}\format[FormatChars]{\abstract}
-\\par
-\\par
-\end{abstract}
+
+
+\begin{abstract}<text:line-break/>\format[FormatChars]{\abstract}\end{abstract}
 <!-- END: \bibtexkey -->

@@ -8,6 +8,6 @@
 \begin{number}, bk. \format[FormatChars]{\number}.\end{number}
 \begin{address} \format[FormatChars]{\address}\end{address}:
 \begin{publisher} \format[FormatChars]{\publisher}\end{publisher},
-\begin{year}\format[FormatChars]{\year}. \end{year}\\par\\par
-\begin{abstract}\format[FormatChars]{\abstract}\\par\\par\end{abstract}
+\begin{year}\format[FormatChars]{\year}. \end{year}
+\begin{abstract}<text:line-break/>\format[FormatChars]{\abstract}\end{abstract}
 <!-- END: \bibtexkey -->

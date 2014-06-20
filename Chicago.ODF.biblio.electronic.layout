@@ -4,5 +4,5 @@
 \begin{organization}\format[FormatChars]{\organization}. \end{organization}
 \begin{month}\format[FormatChars]{\month}, \end{month}
 \begin{year}\format[FormatChars]{\year}. \end{year}
-\begin{url}\format[FormatChars]{\url}. \end{url}\\par\\par
+\begin{url}\format[FormatChars]{\url}. \end{url}
 <!-- END: \bibtexkey -->

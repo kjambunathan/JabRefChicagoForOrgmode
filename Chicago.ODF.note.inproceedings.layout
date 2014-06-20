@@ -10,6 +10,6 @@
 \begin{address}\format[FormatChars]{\address}\end{address}{:
 \begin{publisher} \format[FormatChars]{\publisher}\end{publisher},
 \begin{year}\format[FormatChars]{\year}. \end{year}
-\begin{note}\\par
-\format[FormatChars]{\note} \end{note}  \\par\\par
+\begin{note}<text:line-break/>
+\format[FormatChars]{\note} \end{note}
 <!-- END: \bibtexkey -->
