@@ -1,7 +1,3 @@
-<text:p text:style-name="Bibliography">
-<text:bookmark text:name="\bibtexkey"/>
-<text:bookmark-start text:name="cite-\bibtexkey"/>
-
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{year}\format[FormatChars]{\year}. \end{year}
@@ -10,6 +6,3 @@
 \begin{number} (\number)\end{number}
 \begin{month}, \format[FormatChars]{\month}, \end{month}
 \begin{pages}: \pages\end{pages}. 
-
-<text:bookmark-end text:name="cite-\bibtexkey"/>
-</text:p>

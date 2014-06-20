@@ -1,6 +1,3 @@
-<text:p text:style-name="Bibliography">
-<text:bookmark text:name="\bibtexkey"/>
-<text:bookmark-start text:name="cite-\bibtexkey"/>
 
 \format[FormatChars,AuthorLastFirstCommas]{\author} \format[FormatChars]{\title}.
 
@@ -51,6 +48,3 @@
 
 .
 
-
-<text:bookmark-end text:name="cite-\bibtexkey"/>
-</text:p>

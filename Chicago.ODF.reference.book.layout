@@ -1,6 +1,3 @@
-<text:p text:style-name="Bibliography">
-<text:bookmark text:name="\bibtexkey"/>
-<text:bookmark-start text:name="cite-\bibtexkey"/>
 
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
@@ -12,6 +9,3 @@
 \begin{number}, bk. \format[FormatChars]{\number}.\end{number}
 \begin{address} \format[FormatChars]{\address}\end{address}:
 \begin{publisher} \format[FormatChars]{\publisher}\end{publisher}. 
-
-<text:bookmark-end text:name="cite-\bibtexkey"/>
-</text:p>

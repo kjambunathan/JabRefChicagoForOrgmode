@@ -1,11 +1,5 @@
-<text:p text:style-name="Bibliography">
-<text:bookmark text:name="\bibtexkey"/>
-<text:bookmark-start text:name="cite-\bibtexkey"/>
 
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{year}\format[FormatChars]{\year}. \end{year}
 \begin{title}\format[FormatChars]{\title}. \end{title}PhD diss., \format[FormatChars]{\school}. 
-
-<text:bookmark-end text:name="cite-\bibtexkey"/>
-</text:p>
