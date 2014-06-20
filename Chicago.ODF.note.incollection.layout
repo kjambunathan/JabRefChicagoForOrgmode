@@ -4,9 +4,9 @@
 \begin{editor}, edited by \format[FormatChars,AuthorFirstFirstCommas]{\editor}\end{editor}}
 \begin{pages}, \pages\end{pages}.
 \begin{edition}\format[FormatChars]{\edition}\end{edition}
-\begin{volume} Vol. \format[FormatChars]{\volume}.\end{volume} 
+\begin{volume} Vol. \format[FormatChars]{\volume}.\end{volume}
 \begin{address}\format[FormatChars]{\address}\end{address}{:
-\begin{publisher} \format[FormatChars]{\publisher}\end{publisher}, 
+\begin{publisher} \format[FormatChars]{\publisher}\end{publisher},
 \begin{year}\format[FormatChars]{\year}. \end{year}
 \begin{note}\\par
 \format[FormatChars]{\note} \end{note}  \\par\\par

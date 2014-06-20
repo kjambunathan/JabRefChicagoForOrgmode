@@ -1,4 +1,4 @@
 (\begin{author}
 \format[FormatChars,AuthorNatBib]{\author} \end{author}
 \begin{year}\format[FormatChars]{\year}, \end{year}
-\begin{volume}\volume: \end{volume})  
+\begin{volume}\volume: \end{volume})

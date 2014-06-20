@@ -2,4 +2,4 @@
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{year}\format[FormatChars]{\year}. \end{year}
-\begin{title}\format[FormatChars]{\title}. \end{title}Masters thesis, \format[FormatChars]{\school}. 
+\begin{title}\format[FormatChars]{\title}. \end{title}Masters thesis, \format[FormatChars]{\school}.

@@ -5,4 +5,4 @@
 \begin{volume} \volume\end{volume}
 \begin{number} (\number)\end{number}
 \begin{month}, \format[FormatChars]{\month}, \end{month}
-\begin{pages}: \pages\end{pages}. 
+\begin{pages}: \pages\end{pages}.

@@ -1,3 +1,2 @@
 \begin{author}
-\format[FormatChars,AuthorNatBib]{\author}, \end{author}"\format[FormatChars]{\title}." 
-
+\format[FormatChars,AuthorNatBib]{\author}, \end{author}"\format[FormatChars]{\title}."

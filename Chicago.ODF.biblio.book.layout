@@ -6,5 +6,5 @@
 \begin{volume} Vol. \format[FormatChars]{\volume}.\end{volume}
 \begin{number}, bk. \format[FormatChars]{\number}.\end{number}
 \begin{address} \format[FormatChars]{\address}\end{address}:
-\begin{publisher} \format[FormatChars]{\publisher}\end{publisher}, 
+\begin{publisher} \format[FormatChars]{\publisher}\end{publisher},
 \begin{year}\format[FormatChars]{\year}. \end{year}\\par\\par
