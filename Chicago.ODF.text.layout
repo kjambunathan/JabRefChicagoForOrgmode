@@ -1,5 +1,3 @@
-<text:a xlink:type="simple" xlink:href="#\bibtexkey">
-
 \format[FormatChars,AuthorLastFirstCommas]{\author} \format[FormatChars]{\title}.
 
 \begin{journal}
@@ -48,5 +46,3 @@
 \end{pages}
 
 .
-
-</text:a>
