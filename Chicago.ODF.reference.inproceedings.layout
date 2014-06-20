@@ -1,4 +1,3 @@
-
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{year}\format[FormatChars]{\year}. \end{year}
