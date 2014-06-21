@@ -1,7 +1,7 @@
 <!-- BEGIN: \bibtexkey -->
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
-\begin{title}"\format[FormatChars]{\title}." \end{title}{In \\i \format[FormatChars]{\booktitle}}
+\begin{title}"\format[FormatChars]{\title}." \end{title}{In <text:span text:style-name="Emphasis">\format[FormatChars]{\booktitle}</text:span>}
 \begin{editor}, edited by \format[FormatChars,AuthorFirstFirstCommas]{\editor}\end{editor}}
 \begin{pages}, \pages\end{pages}.
 \begin{edition}\format[FormatChars]{\edition}, \end{edition}
