@@ -6,7 +6,7 @@
 \end{journal}
 
 \begin{number}
- (\number)
+ (\format[FormatChars]{\number})
 \end{number}
 
 \begin{editor}
@@ -22,7 +22,7 @@
 \end{organization}
 
 \begin{institution}
-, \institution
+, \format[FormatChars]{\institution}
 \end{institution}
 
 \begin{publisher}
