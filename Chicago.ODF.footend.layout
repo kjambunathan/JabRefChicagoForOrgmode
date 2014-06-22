@@ -21,7 +21,7 @@
 \end{booktitle}
 
 \begin{organization}
-, \organization
+, \format[FormatChars]{\organization}
 \end{organization}
 
 
