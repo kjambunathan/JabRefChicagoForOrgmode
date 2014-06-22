@@ -8,5 +8,5 @@
 \begin{year}\format[FormatChars]{\year})\end{year}
 \begin{pages}: \format[FormatPagesForXML]{\pages}\end{pages}.
 \begin{note}<text:line-break/>
-\format[FormatChars]{\note} \end{note}
+\format[Replace("\n,<text:line-break/>"),FormatChars]{\note} \end{note}
 <!-- END: \bibtexkey -->

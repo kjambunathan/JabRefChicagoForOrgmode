@@ -3,5 +3,5 @@
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}\begin{title}"\format[FormatChars]{\title}." \end{title}PhD diss., \format[FormatChars]{\school},
 \begin{year}\format[FormatChars]{\year}. \end{year}
 \begin{note}<text:line-break/>
-\format[FormatChars]{\note} \end{note}
+\format[Replace("\n,<text:line-break/>"),FormatChars]{\note} \end{note}
 <!-- END: \bibtexkey -->

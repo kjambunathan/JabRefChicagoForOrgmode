@@ -49,5 +49,5 @@
 .
 
 
-\begin{abstract}<text:line-break/>\format[FormatChars]{\abstract}\end{abstract}
+\begin{abstract}<text:line-break/>\format[Replace("\n,<text:line-break/>"),FormatChars]{\abstract}\end{abstract}
 <!-- END: \bibtexkey -->
