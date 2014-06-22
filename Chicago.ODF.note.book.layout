@@ -1,9 +1,9 @@
 <!-- BEGIN: \bibtexkey -->
 \begin{author}
 \format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
-<text:span text:style-name="Emphasis">\format[FormatChars]{\title}</text:span>{.
+<text:span text:style-name="Emphasis">\format[FormatChars]{\title}</text:span>.
 \begin{edition} \format[FormatChars]{\edition}\end{edition}
-\begin{editor} Edited by \format[FormatChars,AuthorFirstFirstCommas]{\editor}.\end{editor}}
+\begin{editor} Edited by \format[FormatChars,AuthorFirstFirstCommas]{\editor}.\end{editor}
 \begin{volume} Vol. \format[FormatChars]{\volume}.\end{volume}
 \begin{number}, bk. \format[FormatChars]{\number}.\end{number}
 \begin{address} \format[FormatChars]{\address}\end{address}:
