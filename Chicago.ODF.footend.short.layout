@@ -3,7 +3,7 @@
 
 
 \begin{journal}
-}<text:span text:style-name="Emphasis">\format[FormatChars]{\journal}</text:span> <text:span text:style-name="Bold">\volume</text:span>{
+<text:span text:style-name="Emphasis">\format[FormatChars]{\journal}</text:span> <text:span text:style-name="Bold">\volume</text:span>
 \end{journal}
 
 
@@ -17,7 +17,7 @@
 \end{editor}
 
 \begin{booktitle}
-}<text:span text:style-name="Emphasis">\format[FormatChars]{\booktitle}</text:span>{
+<text:span text:style-name="Emphasis">\format[FormatChars]{\booktitle}</text:span>
 \end{booktitle}
 
 \begin{organization}
