@@ -52,7 +52,7 @@
 
 
 \begin{pages}
-, \pages
+, \format[FormatPagesForXML]{\pages}
 \end{pages}
 
 .

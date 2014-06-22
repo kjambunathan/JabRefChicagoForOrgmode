@@ -6,5 +6,5 @@
 \begin{volume} \volume\end{volume}
 \begin{number} (\format[FormatChars]{\number})\end{number}
 \begin{month}, \format[FormatChars]{\month}, \end{month}
-\begin{pages}: \pages\end{pages}.
+\begin{pages}: \format[FormatPagesForXML]{\pages}\end{pages}.
 <!-- END: \bibtexkey -->

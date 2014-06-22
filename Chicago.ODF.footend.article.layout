@@ -6,5 +6,5 @@
 (
 \begin{month}\format[FormatChars]{\month} \end{month}
 \begin{year}\format[FormatChars]{\year})\end{year}
-\begin{pages}: \pages\end{pages}.
+\begin{pages}: \format[FormatPagesForXML]{\pages}\end{pages}.
 <!-- END: \bibtexkey -->
