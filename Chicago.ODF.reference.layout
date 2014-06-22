@@ -37,7 +37,7 @@
 , \format[FormatChars]{\address}
 \end{address}
 
-(\year).
+\begin{year}(\year)\end{year}
 \begin{note}
 , \note
 \end{note}
