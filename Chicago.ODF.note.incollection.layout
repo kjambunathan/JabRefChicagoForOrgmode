@@ -9,6 +9,6 @@
 \begin{address}\format[FormatChars]{\address}\end{address}:
 \begin{publisher} \format[FormatChars]{\publisher}\end{publisher},
 \begin{year}\format[FormatChars]{\year}. \end{year}
-\begin{note}<text:line-break/>
-\format[Replace("\n,<text:line-break/>"),FormatChars]{\note} \end{note}
+\begin{note}<text:line-break/><text:line-break/>
+\format[Replace("\n,<text:line-break/><text:line-break/>"),FormatChars]{\note} \end{note}
 <!-- END: \bibtexkey -->

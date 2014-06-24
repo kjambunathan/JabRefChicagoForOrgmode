@@ -7,6 +7,6 @@
 \begin{month}\format[FormatChars]{\month}, \end{month}
 \begin{year}\format[FormatChars]{\year})\end{year}
 \begin{pages}: \format[FormatPagesForXML]{\pages}\end{pages}.
-\begin{note}<text:line-break/>
-\format[Replace("\n,<text:line-break/>"),FormatChars]{\note} \end{note}
+\begin{note}<text:line-break/><text:line-break/>
+\format[Replace("\n,<text:line-break/><text:line-break/>"),FormatChars]{\note} \end{note}
 <!-- END: \bibtexkey -->
