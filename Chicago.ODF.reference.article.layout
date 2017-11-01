@@ -1,6 +1,6 @@
 <!-- BEGIN: \bibtexkey -->
 \begin{author}
-\format[FormatChars,XMLChars,AuthorLastFirstCommas]{\author}. \end{author}
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{year}\format[FormatChars,XMLChars]{\year}. \end{year}
 \format[FormatChars,XMLChars]{\title}. <text:span text:style-name="Emphasis">\format[FormatChars,XMLChars]{\journal}</text:span>
 \begin{volume} \volume\end{volume}

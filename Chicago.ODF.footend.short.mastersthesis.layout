@@ -1,5 +1,5 @@
 <!-- BEGIN: \bibtexkey -->
 \begin{author}
-\format[FormatChars,XMLChars,AuthorNatBib]{\author}, \end{author}
+\format[FormatChars,AuthorNatBib]{\author}, \end{author}
 \begin{title}"\format[FormatChars,XMLChars]{\title}." \end{title}
 <!-- END: \bibtexkey -->

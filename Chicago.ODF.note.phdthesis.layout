@@ -1,6 +1,6 @@
 <!-- BEGIN: \bibtexkey -->
 \begin{author}
-\format[FormatChars,XMLChars,AuthorLastFirstCommas]{\author}. \end{author}\begin{title}"\format[FormatChars,XMLChars]{\title}." \end{title}PhD diss., \format[FormatChars,XMLChars]{\school},
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}\begin{title}"\format[FormatChars,XMLChars]{\title}." \end{title}PhD diss., \format[FormatChars,XMLChars]{\school},
 \begin{year}\format[FormatChars,XMLChars]{\year}. \end{year}
 \begin{note}<text:line-break/><text:line-break/>
 \format[Replace("\n,<text:line-break/><text:line-break/>"),FormatChars,XMLChars]{\note} \end{note}

@@ -1,8 +1,8 @@
 <!-- BEGIN: \bibtexkey -->
 \begin{author}
-\format[FormatChars,XMLChars,AuthorLastFirstCommas]{\author}. \end{author}
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{title}"\format[FormatChars,XMLChars]{\title}." \end{title} In <text:span text:style-name="Emphasis">\format[FormatChars,XMLChars]{\booktitle}</text:span>
-\begin{editor}, edited by \format[FormatChars,XMLChars,AuthorFirstFirstCommas]{\editor}\end{editor}
+\begin{editor}, edited by \format[FormatChars,AuthorFirstFirstCommas]{\editor}\end{editor}
 \begin{pages}, \format[FormatPagesForXML]{\pages}\end{pages}.
 \begin{edition}\format[FormatChars,XMLChars]{\edition}\end{edition}
 \begin{volume} Vol. \format[FormatChars,XMLChars]{\volume}.\end{volume}

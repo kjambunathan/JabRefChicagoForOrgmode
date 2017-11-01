@@ -1,9 +1,9 @@
 <!-- BEGIN: \bibtexkey -->
 \begin{author}
-\format[FormatChars,XMLChars,AuthorLastFirstCommas]{\author}. \end{author}
+\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}
 \begin{year}\format[FormatChars,XMLChars]{\year}. \end{year}
 \begin{title}\format[FormatChars,XMLChars]{\title}. \end{title} In <text:span text:style-name="Emphasis">\format[FormatChars,XMLChars]{\booktitle}</text:span>
-\begin{editor}, ed. \format[FormatChars,XMLChars,AuthorFirstAbbrLastCommas]{\editor}\end{editor}
+\begin{editor}, ed. \format[FormatChars,AuthorFirstAbbrLastCommas]{\editor}\end{editor}
 \begin{pages}, \format[FormatPagesForXML]{\pages}\end{pages}.
 \begin{edition}\format[FormatChars,XMLChars]{\edition}\end{edition}
 \begin{volume} Vol. \format[FormatChars,XMLChars]{\volume}.\end{volume}

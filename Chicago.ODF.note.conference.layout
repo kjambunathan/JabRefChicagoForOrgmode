@@ -1,6 +1,6 @@
 <!-- BEGIN: \bibtexkey -->
 \begin{author}
-\format[FormatChars,XMLChars,AuthorLastFirstCommas]{\author}.\end{author}
+\format[FormatChars,AuthorLastFirstCommas]{\author}.\end{author}
 \begin{title}"\format[FormatChars,XMLChars]{\title}." \end{title}Paper presented at the meeting of the \format[FormatChars,XMLChars]{\booktitle},
 \begin{address}\format[FormatChars,XMLChars]{\address},\end{address}
 \begin{month}\format[FormatChars,XMLChars]{\month}, \end{month}

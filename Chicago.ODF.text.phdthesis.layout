@@ -1,1 +1,1 @@
-<!-- BEGIN: \bibtexkey -->(\begin{author}\format[FormatChars,XMLChars,AuthorNatBib]{\author}\end{author}\begin{year} \format[FormatChars,XMLChars]{\year}\end{year})<!-- END: \bibtexkey -->
+<!-- BEGIN: \bibtexkey -->(\begin{author}\format[FormatChars,AuthorNatBib]{\author}\end{author}\begin{year} \format[FormatChars,XMLChars]{\year}\end{year})<!-- END: \bibtexkey -->

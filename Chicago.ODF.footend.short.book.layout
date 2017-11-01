@@ -1,6 +1,6 @@
 <!-- BEGIN: \bibtexkey -->
 \begin{author}
-\format[FormatChars,XMLChars,AuthorNatBib]{\author}, \end{author}
+\format[FormatChars,AuthorNatBib]{\author}, \end{author}
 <text:span text:style-name="Emphasis">\format[FormatChars,XMLChars]{\title}</text:span>
 \begin{volume}, \volume: \end{volume}.
 <!-- END: \bibtexkey -->
