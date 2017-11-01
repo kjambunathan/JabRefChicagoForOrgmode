@@ -1,31 +1,31 @@
 <!-- BEGIN: \bibtexkey -->
-\format[FormatChars,AuthorLastFirstCommas]{\author} \format[FormatChars]{\title}.
+\format[FormatChars,XMLChars,AuthorLastFirstCommas]{\author} \format[FormatChars,XMLChars]{\title}.
 \begin{journal}
-<text:span text:style-name="Emphasis">\format[FormatChars]{\journal}</text:span> <text:span text:style-name="Bold">\volume</text:span>
+<text:span text:style-name="Emphasis">\format[FormatChars,XMLChars]{\journal}</text:span> <text:span text:style-name="Bold">\volume</text:span>
 \end{journal}
 \begin{number}
- (\format[FormatChars]{\number})
+ (\format[FormatChars,XMLChars]{\number})
 \end{number}
 \begin{editor}
- \format[FormatChars,AuthorLastFirstCommas]{\editor}, eds.
+ \format[FormatChars,XMLChars,AuthorLastFirstCommas]{\editor}, eds.
 \end{editor}
 \begin{booktitle}
-<text:span text:style-name="Emphasis">\format[FormatChars]{\booktitle}</text:span>
+<text:span text:style-name="Emphasis">\format[FormatChars,XMLChars]{\booktitle}</text:span>
 \end{booktitle}
 \begin{organization}
-, \format[FormatChars]{\organization}
+, \format[FormatChars,XMLChars]{\organization}
 \end{organization}
 \begin{institution}
-, \format[FormatChars]{\institution}
+, \format[FormatChars,XMLChars]{\institution}
 \end{institution}
 \begin{publisher}
-, \format[FormatChars]{\publisher}
+, \format[FormatChars,XMLChars]{\publisher}
 \end{publisher}
 \begin{howpublished}
 , \howpublished
 \end{howpublished}
 \begin{address}
-, \format[FormatChars]{\address}
+, \format[FormatChars,XMLChars]{\address}
 \end{address}
 \begin{year}(\year)\end{year}
 \begin{note}
@@ -35,5 +35,5 @@
 , \format[FormatPagesForXML]{\pages}
 \end{pages}
 .
-\begin{abstract}<text:line-break/><text:line-break/>\format[Replace("\n,<text:line-break/><text:line-break/>"),FormatChars]{\abstract}\end{abstract}
+\begin{abstract}<text:line-break/><text:line-break/>\format[Replace("\n,<text:line-break/><text:line-break/>"),FormatChars,XMLChars]{\abstract}\end{abstract}
 <!-- END: \bibtexkey -->

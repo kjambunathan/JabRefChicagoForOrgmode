@@ -1,4 +1,4 @@
 <!-- BEGIN: \bibtexkey -->
 \begin{author}
-\format[FormatChars,AuthorLastFirstCommas]{\author}. \end{author}\begin{title}"\format[FormatChars]{\title}." \end{title}PhD diss., \format[FormatChars]{\school}, \begin{year}\format[FormatChars]{\year}. \end{year}
+\format[FormatChars,XMLChars,AuthorLastFirstCommas]{\author}. \end{author}\begin{title}"\format[FormatChars,XMLChars]{\title}." \end{title}PhD diss., \format[FormatChars,XMLChars]{\school}, \begin{year}\format[FormatChars,XMLChars]{\year}. \end{year}
 <!-- END: \bibtexkey -->
