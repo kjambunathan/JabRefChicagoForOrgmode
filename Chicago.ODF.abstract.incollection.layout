@@ -8,5 +8,5 @@
 \begin{address}\format[FormatChars,XMLChars]{\address}\end{address}:
 \begin{publisher} \format[FormatChars,XMLChars]{\publisher}\end{publisher},
 \begin{year}\format[FormatChars,XMLChars]{\year}. \end{year}
-\begin{abstract}<text:line-break/><text:line-break/>\format[Replace("\n,<text:line-break/><text:line-break/>"),FormatChars,XMLChars]{\abstract}\end{abstract}
+\begin{abstract}<text:line-break/><text:line-break/>\format[FormatChars,XMLChars, Replace("\n,<text:line-break/><text:line-break/>")]{\abstract}\end{abstract}
 <!-- END: \bibtexkey -->
